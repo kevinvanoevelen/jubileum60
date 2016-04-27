@@ -1,0 +1,69 @@
+/* WEBSITE TITLE */
+
+/* comments */
+
+/* ____FONTS____ */
+
+@font-face {
+	font-family: ;
+	src: url() format();
+	font-style: normal;
+	font-weight: normal;	
+}
+
+/* ____GENERAL PAGE STYLING____ */
+
+body {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: verdana, sans-serif;
+	font-size: 16px;
+	color: rgba(110,90,90,0.8);
+	line-height: 1.5;
+	background: beige;	
+}
+
+ header, nav, section, footer, article, aside, div, p, h1, h2, h3, h4, h5, h6, ul, li {
+	display: block;
+	margin: 0px;
+	padding: 0px;	
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	color: inherit;	
+}
+
+/* ____HEADER STYLE____ */
+
+
+
+/* ____CONTENT STYLE____ */
+
+
+
+/* ____FOOTER STYLE____ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
